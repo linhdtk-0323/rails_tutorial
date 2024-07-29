@@ -11,5 +11,5 @@
 - Chạy lệnh để tạo database: rails db:create
 - Bật server: rails s
 Truy cập đường dẫn http://localhost:3000/ hiển thị Rails là thành công
-
+#3 chay nha m
 
